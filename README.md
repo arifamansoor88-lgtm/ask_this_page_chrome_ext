@@ -3,7 +3,7 @@
 ## Overview
 FindFast is a Chrome extension that allows users to ask questions about the webpage they are currently viewing and receive answers based only on that page’s content.
 
-The extension extracts visible text from the page, sends it for processing, and uses a language model to generate clear, concise answers grounded in the provided context.
+The extension extracts visible text from the page, sends it to the Django backend for processing, and utilizes a language model to generate clear, concise answers grounded in the provided context.
 
 ---
 
